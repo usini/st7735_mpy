@@ -1,6 +1,8 @@
 
-# ST7789 Driver for MicroPython
+# ST7735 Driver for MicroPython
+This driver is based on [russhughes drivers](https://github.com/russhughes/st7789_mpy) and [ccccmagicboy/st7735_mpy](https://github.com/ccccmagicboy/st7735_mpy) port
 
+# Original Readme
 This driver is based on [devbis' st7789_mpy driver.](https://github.com/devbis/st7789_mpy)
 I modified the original driver for one of my projects to add:
 
